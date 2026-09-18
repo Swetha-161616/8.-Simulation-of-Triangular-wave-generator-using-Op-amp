@@ -15,11 +15,8 @@ To Simulate Triangular-wave-generator using Op-amp
 •	Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
  
 
-  **CIRCUIT DIAGRAM**
-
-
   **Output waveform**
-
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/94fbdebd-75aa-4077-9258-2cdd68327472" />
 
 
 **RESULT:**
